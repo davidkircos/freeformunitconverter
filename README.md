@@ -1,4 +1,4 @@
-This project is running at http://davidproj-env-xde4qr83jt.elasticbeanstalk.com/
+This project is running with a web front end at http://davidproj-env-xde4qr83jt.elasticbeanstalk.com/
 
 Examples of inputs include:
 
