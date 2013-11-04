@@ -11,6 +11,8 @@ Examples of inputs include:
 	
 	32 meters to feet
 	
+	-10.07c in f?
+	
 	How many seconds are there in a fortnight?
 	
 	How far is 92.5 miles in marathons?
