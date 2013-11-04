@@ -13,7 +13,7 @@ Examples of inputs include:
 	
 	How many seconds are there in a fortnight?
 	
-	How far is 100 miles in marathons?
+	How far is 92.5 miles in marathons?
 	
 	How many in in a foot?
 	
@@ -23,7 +23,7 @@ Examples of inputs include:
 	
 	10^(-32) decamiles in feet.
 	
-	in per ft
+	in per foot
 	
 	10 marathons to km
 	
