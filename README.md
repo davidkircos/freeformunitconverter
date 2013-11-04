@@ -1,5 +1,7 @@
-Freefrom Unit Converter:
-	Takes a plain text English dimensional conversion query, and computes the answer.  All in python, no external program calls.
+Freefrom Unit Converter
+========================
+
+Takes a plain text English dimensional conversion query, and computes the answer.  All in python, with no external program calls.
 
 This project is running with a web front end at http://davidproj-env-xde4qr83jt.elasticbeanstalk.com/
 
@@ -22,6 +24,6 @@ Examples of inputs include:
 	10 marathons to km
 	
 	
-The unit conversion factors are in unit_data.py, and can be extended to many other types of dimensions.
+The unit conversion factors are in units_data.py, and can be extended to many other types of dimensions.
 	
 	
