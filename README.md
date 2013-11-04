@@ -9,6 +9,10 @@ Examples of inputs include:
 
 	How many feet in a mile?
 	
+	32 meters to feet
+	
+	How many seconds are there in a fortnight?
+	
 	How far is 100 miles in marathons?
 	
 	How many in in a foot?
